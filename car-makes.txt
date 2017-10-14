@@ -1,0 +1,10 @@
+# Contains the names of several auto makers.
+
+Avanti
+Callaway
+Mosler
+Panoz
+DeLorean Motor Company
+Shelby SuperCars
+Falcon
+Hennessey

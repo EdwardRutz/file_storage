@@ -1,0 +1,3 @@
+# This file should contain the names of several models for each make. 
+# The format will be as follows:  {first letter of make}={model name}    T=Camry, N=Altima
+
